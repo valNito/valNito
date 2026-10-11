@@ -56,23 +56,3 @@ Proyecto desarrollado en Go para explorar los fundamentos de blockchain, funcion
 
 Proyecto Full-Stack con [frontend](https://github.com/valNito/dollar-tracker-frontend) y backend independientes.
 
-## 🔬 Explorando actualmente
-
-```text
-ingenieria-de-software/
-├── arquitectura/
-│   ├── sistemas-distribuidos
-│   ├── event-driven-architecture
-│   ├── cqrs-y-event-sourcing
-│   └── patrones-de-diseno
-├── ciencias-de-la-computacion/
-│   ├── algoritmos
-│   ├── geometria-computacional
-│   └── metodos-numericos
-└── sistemas/
-    ├── concurrencia
-    ├── optimizacion
-    ├── gestion-de-memoria
-    └── infraestructura
-```
-
