@@ -1,15 +1,4 @@
-# Hola, soy valNito 👋
-
 **Ingeniero Civil en Informática | Desarrollador Full-Stack | Entusiasta de la ingeniería de software**
-
-📍 Santiago, Chile 🇨🇱
-
-Soy Ingeniero Civil en Informática y desarrollador Full-Stack, con experiencia en el desarrollo, mantenimiento y evolución de aplicaciones empresariales.
-
-Me interesa la ingeniería de software más allá de los frameworks y las tecnologías de moda. Disfruto comprender cómo funcionan los sistemas internamente, explorar distintas áreas de la computación y construir soluciones que prioricen la calidad, el rendimiento y la mantenibilidad.
-
-Fuera del ámbito profesional, desarrollo proyectos personales relacionados con algoritmos, geometría computacional, simulaciones físicas, arquitectura de software y sistemas distribuidos.
-
 
 <h2 align="center">🛠️ Tecnologías</h2>
 
