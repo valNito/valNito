@@ -10,19 +10,25 @@ Me interesa la ingeniería de software más allá de los frameworks y las tecnol
 
 Fuera del ámbito profesional, desarrollo proyectos personales relacionados con algoritmos, geometría computacional, simulaciones físicas, arquitectura de software y sistemas distribuidos.
 
-## 🛠️ Tecnologías
 
-**Lenguajes**
+<h2 align="center">🛠️ Tecnologías</h2>
 
-![Lenguajes](https://skillicons.dev/icons?i=cpp,go,php,js,ts,python)
+<div align="center">
 
-**Desarrollo web y backend**
+  <h4>Lenguajes</h4>
 
-![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express,react,tailwind)
+  <img src="https://skillicons.dev/icons?i=cpp,go,php,js,ts,python" alt="Lenguajes" />
 
-**Bases de datos, herramientas e infraestructura**
+  <h4>Desarrollo web y backend</h4>
 
-![Herramientas](https://skillicons.dev/icons?i=mysql,redis,docker,linux,git,github,githubactions)
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,tailwind" alt="Frameworks" />
+
+  <h4>Bases de datos, herramientas e infraestructura</h4>
+
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,linux,git,github,githubactions" alt="Herramientas" />
+
+</div>
+
 
 ## 🧠 Áreas de interés
 
